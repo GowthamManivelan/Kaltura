@@ -1,5 +1,6 @@
 ```json
-{
+
+[{
 	'relatedObjects': {},
 	'id': '1_542x36vx',
 	'name': 'penguin',
@@ -86,5 +87,5 @@
 	'flavorParamsIds': '',
 	'isTrimDisabled': None,
 	'streams': []
-}
+}]
 ```
