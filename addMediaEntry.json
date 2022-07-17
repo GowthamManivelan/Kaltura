@@ -1,0 +1,88 @@
+{
+	'relatedObjects': {},
+	'id': '1_542x36vx',
+	'name': 'penguin',
+	'description': 'save penguins',
+	'partnerId': 4682822,
+	'userId': 'user@example.com',
+	'creatorId': 'user@example.com',
+	'tags': '',
+	'adminTags': '',
+	'categories': '',
+	'categoriesIds': '',
+	'status': {
+		'value': '1'
+	},
+	'moderationStatus': {
+		'value': 6
+	},
+	'moderationCount': 0,
+	'type': {
+		'value': '1'
+	},
+	'createdAt': 1658076634,
+	'updatedAt': 1658076861,
+	'rank': 0.0,
+	'totalRank': 0,
+	'votes': 0,
+	'groupId': None,
+	'partnerData': '',
+	'downloadUrl': 'https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_542x36vx/format/download/protocol/https/flavorParamIds/0',
+	'searchText': '_PAR_ONLY_ _4682822_ _MEDIA_TYPE_1|  penguin save penguins ',
+	'licenseType': {
+		'value': -1
+	},
+	'version': 0,
+	'thumbnailUrl': 'https://cfvod.kaltura.com/p/4682822/sp/468282200/thumbnail/entry_id/1_542x36vx/version/0',
+	'accessControlId': 5766512,
+	'startDate': None,
+	'endDate': None,
+	'referenceId': '',
+	'replacingEntryId': '',
+	'replacedEntryId': '',
+	'replacementStatus': {
+		'value': '0'
+	},
+	'partnerSortValue': 0,
+	'conversionProfileId': 19432142,
+	'redirectEntryId': '',
+	'rootEntryId': '1_542x36vx',
+	'parentEntryId': '',
+	'operationAttributes': [],
+	'entitledUsersEdit': '',
+	'entitledUsersPublish': '',
+	'entitledUsersView': '',
+	'capabilities': '',
+	'templateEntryId': '',
+	'displayInSearch': {
+		'value': 1
+	},
+	'application': None,
+	'applicationVersion': '',
+	'blockAutoTranscript': False,
+	'plays': 0,
+	'views': 0,
+	'lastPlayedAt': None,
+	'width': None,
+	'height': None,
+	'duration': 0,
+	'msDuration': 0,
+	'durationType': None,
+	'mediaType': {
+		'value': 1
+	},
+	'conversionQuality': '19432142',
+	'sourceType': {
+		'value': '1'
+	},
+	'sourceVersion': '',
+	'searchProviderType': None,
+	'searchProviderId': '',
+	'creditUserName': '',
+	'creditUrl': '',
+	'mediaDate': None,
+	'dataUrl': 'https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_542x36vx/format/url/protocol/https',
+	'flavorParamsIds': '',
+	'isTrimDisabled': None,
+	'streams': []
+}
