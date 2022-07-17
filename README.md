@@ -9,5 +9,9 @@ Python libraries:
 
 pip install KalturaApiClient
 
+# Launch the application
+
+python main.py
+
 
 
