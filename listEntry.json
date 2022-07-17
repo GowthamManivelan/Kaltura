@@ -1,349 +1,349 @@
 [{
-	'relatedObjects': {},
-	'id': '1_5px901be',
-	'name': 'Interactive Video Quiz - Reports',
-	'description': 'Learn how to view the Interactive Video quiz reports',
-	'partnerId': 4682822,
-	'userId': 'eli.cohen@kaltura.com',
-	'creatorId': 'eli.cohen@kaltura.com',
-	'tags': 'interactive video quizzing, analytics, video, ivq, yahere, innovative, quizzing, tutorial, caption complete, interactivity, interactive video quiz, media, question, quiz, content, answered, questions., breakdown, users, quizzes, surveys, introduce, standard, kaltura, effects, report, reports., viewers, setup, dashboard, pedagogy, interactive',
-	'adminTags': '',
-	'categories': 'Samples>Sample Videos',
-	'categoriesIds': '259148302',
-	'status': {
-		'value': '2'
+	"relatedObjects": {},
+	"id": "1_5px901be",
+	"name": "Interactive Video Quiz - Reports",
+	"description": "Learn how to view the Interactive Video quiz reports",
+	"partnerId": 4682822,
+	"userId": "eli.cohen@kaltura.com",
+	"creatorId": "eli.cohen@kaltura.com",
+	"tags": "interactive video quizzing, analytics, video, ivq, yahere, innovative, quizzing, tutorial, caption complete, interactivity, interactive video quiz, media, question, quiz, content, answered, questions., breakdown, users, quizzes, surveys, introduce, standard, kaltura, effects, report, reports., viewers, setup, dashboard, pedagogy, interactive",
+	"adminTags": "",
+	"categories": "Samples>Sample Videos",
+	"categoriesIds": "259148302",
+	"status": {
+		"value": "2"
 	},
-	'moderationStatus': {
-		'value': 6
+	"moderationStatus": {
+		"value": 6
 	},
-	'moderationCount': 0,
-	'type': {
-		'value': '1'
+	"moderationCount": 0,
+	"type": {
+		"value": "1"
 	},
-	'createdAt': 1654782477,
-	'updatedAt': 1654782480,
-	'rank': 0.0,
-	'totalRank': 0,
-	'votes': 0,
-	'groupId': None,
-	'partnerData': '',
-	'downloadUrl': 'https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_5px901be/format/download/protocol/https/flavorParamIds/0',
-	'searchText': '_PAR_ONLY_ _4682822_ _MEDIA_TYPE_1|  Interactive Video Quiz - Reports interactive video quizzing, analytics, video, ivq, yahere, innovative, quizzing, tutorial, caption complete, interactivity, interactive video quiz, media, question, quiz, content, answered, questions., breakdown, users, quizzes, surveys, introduce, standard, kaltura, effects, report, reports., viewers, setup, dashboard, pedagogy, interactive Learn how to view the Interactive Video quiz reports ',
-	'licenseType': {
-		'value': -1
+	"createdAt": 1654782477,
+	"updatedAt": 1654782480,
+	"rank": 0.0,
+	"totalRank": 0,
+	"votes": 0,
+	"groupId": null,
+	"partnerData": "",
+	"downloadUrl": "https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_5px901be/format/download/protocol/https/flavorParamIds/0",
+	"searchText": "_PAR_ONLY_ _4682822_ _MEDIA_TYPE_1|  Interactive Video Quiz - Reports interactive video quizzing, analytics, video, ivq, yahere, innovative, quizzing, tutorial, caption complete, interactivity, interactive video quiz, media, question, quiz, content, answered, questions., breakdown, users, quizzes, surveys, introduce, standard, kaltura, effects, report, reports., viewers, setup, dashboard, pedagogy, interactive Learn how to view the Interactive Video quiz reports ",
+	"licenseType": {
+		"value": -1
 	},
-	'version': 0,
-	'thumbnailUrl': 'https://cfvod.kaltura.com/p/4682822/sp/468282200/thumbnail/entry_id/1_5px901be/version/100011',
-	'accessControlId': 5766512,
-	'startDate': None,
-	'endDate': None,
-	'referenceId': '',
-	'replacingEntryId': '',
-	'replacedEntryId': '',
-	'replacementStatus': {
-		'value': '0'
+	"version": 0,
+	"thumbnailUrl": "https://cfvod.kaltura.com/p/4682822/sp/468282200/thumbnail/entry_id/1_5px901be/version/100011",
+	"accessControlId": 5766512,
+	"startDate": null,
+	"endDate": null,
+	"referenceId": "",
+	"replacingEntryId": "",
+	"replacedEntryId": "",
+	"replacementStatus": {
+		"value": "0"
 	},
-	'partnerSortValue': 0,
-	'conversionProfileId': 19432142,
-	'redirectEntryId': '',
-	'rootEntryId': '1_n6l6x7nu',
-	'parentEntryId': '',
-	'operationAttributes': [],
-	'entitledUsersEdit': '',
-	'entitledUsersPublish': '',
-	'entitledUsersView': '',
-	'capabilities': '',
-	'templateEntryId': '',
-	'displayInSearch': {
-		'value': 1
+	"partnerSortValue": 0,
+	"conversionProfileId": 19432142,
+	"redirectEntryId": "",
+	"rootEntryId": "1_n6l6x7nu",
+	"parentEntryId": "",
+	"operationAttributes": [],
+	"entitledUsersEdit": "",
+	"entitledUsersPublish": "",
+	"entitledUsersView": "",
+	"capabilities": "",
+	"templateEntryId": "",
+	"displayInSearch": {
+		"value": 1
 	},
-	'application': None,
-	'applicationVersion': '',
-	'blockAutoTranscript': False,
-	'plays': 2,
-	'views': 10,
-	'lastPlayedAt': 1654891200,
-	'width': 3840,
-	'height': 2160,
-	'duration': 94,
-	'msDuration': 94000,
-	'durationType': None,
-	'mediaType': {
-		'value': 1
+	"application": null,
+	"applicationVersion": "",
+	"blockAutoTranscript": false,
+	"plays": 2,
+	"views": 10,
+	"lastPlayedAt": 1654891200,
+	"width": 3840,
+	"height": 2160,
+	"duration": 94,
+	"msDuration": 94000,
+	"durationType": null,
+	"mediaType": {
+		"value": 1
 	},
-	'conversionQuality': '19432142',
-	'sourceType': {
-		'value': '35'
+	"conversionQuality": "19432142",
+	"sourceType": {
+		"value": "35"
 	},
-	'sourceVersion': '',
-	'searchProviderType': None,
-	'searchProviderId': '',
-	'creditUserName': '',
-	'creditUrl': '',
-	'mediaDate': None,
-	'dataUrl': 'https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_5px901be/format/url/protocol/https',
-	'flavorParamsIds': '0,487041,487051,487061,487071,487081,487091',
-	'isTrimDisabled': None,
-	'streams': []
+	"sourceVersion": "",
+	"searchProviderType": null,
+	"searchProviderId": "",
+	"creditUserName": "",
+	"creditUrl": "",
+	"mediaDate": null,
+	"dataUrl": "https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_5px901be/format/url/protocol/https",
+	"flavorParamsIds": "0,487041,487051,487061,487071,487081,487091",
+	"isTrimDisabled": null,
+	"streams": []
 }, {
-	'relatedObjects': {},
-	'id': '1_6t49f4ls',
-	'name': 'Interactive Video Quiz - Create',
-	'description': 'Learn how to create an Interactive Video Quiz',
-	'partnerId': 4682822,
-	'userId': 'eli.cohen@kaltura.com',
-	'creatorId': 'eli.cohen@kaltura.com',
-	'tags': 'interactive video quizzing, interactive video quiz, settings, artistic expressions and media, setup, landing pages, default settings, quiz, music, ivq, effects, tutorial, caption complete',
-	'adminTags': '',
-	'categories': 'Samples>Sample Videos',
-	'categoriesIds': '259148302',
-	'status': {
-		'value': '2'
+	"relatedObjects": {},
+	"id": "1_6t49f4ls",
+	"name": "Interactive Video Quiz - Create",
+	"description": "Learn how to create an Interactive Video Quiz",
+	"partnerId": 4682822,
+	"userId": "eli.cohen@kaltura.com",
+	"creatorId": "eli.cohen@kaltura.com",
+	"tags": "interactive video quizzing, interactive video quiz, settings, artistic expressions and media, setup, landing pages, default settings, quiz, music, ivq, effects, tutorial, caption complete",
+	"adminTags": "",
+	"categories": "Samples>Sample Videos",
+	"categoriesIds": "259148302",
+	"status": {
+		"value": "2"
 	},
-	'moderationStatus': {
-		'value': 6
+	"moderationStatus": {
+		"value": 6
 	},
-	'moderationCount': 0,
-	'type': {
-		'value': '1'
+	"moderationCount": 0,
+	"type": {
+		"value": "1"
 	},
-	'createdAt': 1654782480,
-	'updatedAt': 1654782482,
-	'rank': 0.0,
-	'totalRank': 0,
-	'votes': 0,
-	'groupId': None,
-	'partnerData': '',
-	'downloadUrl': 'https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_6t49f4ls/format/download/protocol/https/flavorParamIds/0',
-	'searchText': '_PAR_ONLY_ _4682822_ _MEDIA_TYPE_1|  Interactive Video Quiz - Create interactive video quizzing, interactive video quiz, settings, artistic expressions and media, setup, landing pages, default settings, quiz, music, ivq, effects, tutorial, caption complete Learn how to create an Interactive Video Quiz ',
-	'licenseType': {
-		'value': -1
+	"createdAt": 1654782480,
+	"updatedAt": 1654782482,
+	"rank": 0.0,
+	"totalRank": 0,
+	"votes": 0,
+	"groupId": null,
+	"partnerData": "",
+	"downloadUrl": "https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_6t49f4ls/format/download/protocol/https/flavorParamIds/0",
+	"searchText": "_PAR_ONLY_ _4682822_ _MEDIA_TYPE_1|  Interactive Video Quiz - Create interactive video quizzing, interactive video quiz, settings, artistic expressions and media, setup, landing pages, default settings, quiz, music, ivq, effects, tutorial, caption complete Learn how to create an Interactive Video Quiz ",
+	"licenseType": {
+		"value": -1
 	},
-	'version': 0,
-	'thumbnailUrl': 'https://cfvod.kaltura.com/p/4682822/sp/468282200/thumbnail/entry_id/1_6t49f4ls/version/100011',
-	'accessControlId': 5766512,
-	'startDate': None,
-	'endDate': None,
-	'referenceId': '',
-	'replacingEntryId': '',
-	'replacedEntryId': '',
-	'replacementStatus': {
-		'value': '0'
+	"version": 0,
+	"thumbnailUrl": "https://cfvod.kaltura.com/p/4682822/sp/468282200/thumbnail/entry_id/1_6t49f4ls/version/100011",
+	"accessControlId": 5766512,
+	"startDate": null,
+	"endDate": null,
+	"referenceId": "",
+	"replacingEntryId": "",
+	"replacedEntryId": "",
+	"replacementStatus": {
+		"value": "0"
 	},
-	'partnerSortValue': 0,
-	'conversionProfileId': 19432142,
-	'redirectEntryId': '',
-	'rootEntryId': '1_oinlwsq5',
-	'parentEntryId': '',
-	'operationAttributes': [],
-	'entitledUsersEdit': '',
-	'entitledUsersPublish': '',
-	'entitledUsersView': '',
-	'capabilities': '',
-	'templateEntryId': '',
-	'displayInSearch': {
-		'value': 1
+	"partnerSortValue": 0,
+	"conversionProfileId": 19432142,
+	"redirectEntryId": "",
+	"rootEntryId": "1_oinlwsq5",
+	"parentEntryId": "",
+	"operationAttributes": [],
+	"entitledUsersEdit": "",
+	"entitledUsersPublish": "",
+	"entitledUsersView": "",
+	"capabilities": "",
+	"templateEntryId": "",
+	"displayInSearch": {
+		"value": 1
 	},
-	'application': None,
-	'applicationVersion': '',
-	'blockAutoTranscript': False,
-	'plays': 1,
-	'views': 1,
-	'lastPlayedAt': 1654891200,
-	'width': 3840,
-	'height': 2160,
-	'duration': 250,
-	'msDuration': 250000,
-	'durationType': None,
-	'mediaType': {
-		'value': 1
+	"application": null,
+	"applicationVersion": "",
+	"blockAutoTranscript": false,
+	"plays": 1,
+	"views": 1,
+	"lastPlayedAt": 1654891200,
+	"width": 3840,
+	"height": 2160,
+	"duration": 250,
+	"msDuration": 250000,
+	"durationType": null,
+	"mediaType": {
+		"value": 1
 	},
-	'conversionQuality': '19432142',
-	'sourceType': {
-		'value': '35'
+	"conversionQuality": "19432142",
+	"sourceType": {
+		"value": "35"
 	},
-	'sourceVersion': '',
-	'searchProviderType': None,
-	'searchProviderId': '',
-	'creditUserName': '',
-	'creditUrl': '',
-	'mediaDate': None,
-	'dataUrl': 'https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_6t49f4ls/format/url/protocol/https',
-	'flavorParamsIds': '0,487041,487051,487061,487071,487081,487091',
-	'isTrimDisabled': None,
-	'streams': []
+	"sourceVersion": "",
+	"searchProviderType": null,
+	"searchProviderId": "",
+	"creditUserName": "",
+	"creditUrl": "",
+	"mediaDate": null,
+	"dataUrl": "https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_6t49f4ls/format/url/protocol/https",
+	"flavorParamsIds": "0,487041,487051,487061,487071,487081,487091",
+	"isTrimDisabled": null,
+	"streams": []
 }, {
-	'relatedObjects': {},
-	'id': '1_dms9j9js',
-	'name': 'Interactive Video Quiz - Settings',
-	'description': 'Learn how to setup the Interactive Video quiz feature',
-	'partnerId': 4682822,
-	'userId': 'eli.cohen@kaltura.com',
-	'creatorId': 'eli.cohen@kaltura.com',
-	'tags': 'interactivity, interactive video quizzing, interactive video quiz, ivq, artistic expressions and media, setup, quiz, music, effects, invention (innovation), tutorial, caption complete',
-	'adminTags': '',
-	'categories': 'Samples>Sample Videos',
-	'categoriesIds': '259148302',
-	'status': {
-		'value': '2'
+	"relatedObjects": {},
+	"id": "1_dms9j9js",
+	"name": "Interactive Video Quiz - Settings",
+	"description": "Learn how to setup the Interactive Video quiz feature",
+	"partnerId": 4682822,
+	"userId": "eli.cohen@kaltura.com",
+	"creatorId": "eli.cohen@kaltura.com",
+	"tags": "interactivity, interactive video quizzing, interactive video quiz, ivq, artistic expressions and media, setup, quiz, music, effects, invention (innovation), tutorial, caption complete",
+	"adminTags": "",
+	"categories": "Samples>Sample Videos",
+	"categoriesIds": "259148302",
+	"status": {
+		"value": "2"
 	},
-	'moderationStatus': {
-		'value': 6
+	"moderationStatus": {
+		"value": 6
 	},
-	'moderationCount': 0,
-	'type': {
-		'value': '1'
+	"moderationCount": 0,
+	"type": {
+		"value": "1"
 	},
-	'createdAt': 1654782487,
-	'updatedAt': 1654782488,
-	'rank': 0.0,
-	'totalRank': 0,
-	'votes': 0,
-	'groupId': None,
-	'partnerData': '',
-	'downloadUrl': 'https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_dms9j9js/format/download/protocol/https/flavorParamIds/0',
-	'searchText': '_PAR_ONLY_ _4682822_ _MEDIA_TYPE_1|  Interactive Video Quiz - Settings interactivity, interactive video quizzing, interactive video quiz, ivq, artistic expressions and media, setup, quiz, music, effects, invention (innovation), tutorial, caption complete Learn how to setup the Interactive Video quiz feature ',
-	'licenseType': {
-		'value': -1
+	"createdAt": 1654782487,
+	"updatedAt": 1654782488,
+	"rank": 0.0,
+	"totalRank": 0,
+	"votes": 0,
+	"groupId": null,
+	"partnerData": "",
+	"downloadUrl": "https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_dms9j9js/format/download/protocol/https/flavorParamIds/0",
+	"searchText": "_PAR_ONLY_ _4682822_ _MEDIA_TYPE_1|  Interactive Video Quiz - Settings interactivity, interactive video quizzing, interactive video quiz, ivq, artistic expressions and media, setup, quiz, music, effects, invention (innovation), tutorial, caption complete Learn how to setup the Interactive Video quiz feature ",
+	"licenseType": {
+		"value": -1
 	},
-	'version': 0,
-	'thumbnailUrl': 'https://cfvod.kaltura.com/p/4682822/sp/468282200/thumbnail/entry_id/1_dms9j9js/version/100011',
-	'accessControlId': 5766512,
-	'startDate': None,
-	'endDate': None,
-	'referenceId': '',
-	'replacingEntryId': '',
-	'replacedEntryId': '',
-	'replacementStatus': {
-		'value': '0'
+	"version": 0,
+	"thumbnailUrl": "https://cfvod.kaltura.com/p/4682822/sp/468282200/thumbnail/entry_id/1_dms9j9js/version/100011",
+	"accessControlId": 5766512,
+	"startDate": null,
+	"endDate": null,
+	"referenceId": "",
+	"replacingEntryId": "",
+	"replacedEntryId": "",
+	"replacementStatus": {
+		"value": "0"
 	},
-	'partnerSortValue': 0,
-	'conversionProfileId': 19432142,
-	'redirectEntryId': '',
-	'rootEntryId': '1_r8p95fxx',
-	'parentEntryId': '',
-	'operationAttributes': [],
-	'entitledUsersEdit': '',
-	'entitledUsersPublish': '',
-	'entitledUsersView': '',
-	'capabilities': '',
-	'templateEntryId': '',
-	'displayInSearch': {
-		'value': 1
+	"partnerSortValue": 0,
+	"conversionProfileId": 19432142,
+	"redirectEntryId": "",
+	"rootEntryId": "1_r8p95fxx",
+	"parentEntryId": "",
+	"operationAttributes": [],
+	"entitledUsersEdit": "",
+	"entitledUsersPublish": "",
+	"entitledUsersView": "",
+	"capabilities": "",
+	"templateEntryId": "",
+	"displayInSearch": {
+		"value": 1
 	},
-	'application': None,
-	'applicationVersion': '',
-	'blockAutoTranscript': False,
-	'plays': 0,
-	'views': 0,
-	'lastPlayedAt': None,
-	'width': 3840,
-	'height': 2160,
-	'duration': 74,
-	'msDuration': 74000,
-	'durationType': None,
-	'mediaType': {
-		'value': 1
+	"application": null,
+	"applicationVersion": "",
+	"blockAutoTranscript": false,
+	"plays": 0,
+	"views": 0,
+	"lastPlayedAt": null,
+	"width": 3840,
+	"height": 2160,
+	"duration": 74,
+	"msDuration": 74000,
+	"durationType": null,
+	"mediaType": {
+		"value": 1
 	},
-	'conversionQuality': '19432142',
-	'sourceType': {
-		'value': '35'
+	"conversionQuality": "19432142",
+	"sourceType": {
+		"value": "35"
 	},
-	'sourceVersion': '',
-	'searchProviderType': None,
-	'searchProviderId': '',
-	'creditUserName': '',
-	'creditUrl': '',
-	'mediaDate': None,
-	'dataUrl': 'https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_dms9j9js/format/url/protocol/https',
-	'flavorParamsIds': '0,487041,487051,487061,487071,487081,487091',
-	'isTrimDisabled': None,
-	'streams': []
+	"sourceVersion": "",
+	"searchProviderType": null,
+	"searchProviderId": "",
+	"creditUserName": "",
+	"creditUrl": "",
+	"mediaDate": null,
+	"dataUrl": "https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_dms9j9js/format/url/protocol/https",
+	"flavorParamsIds": "0,487041,487051,487061,487071,487081,487091",
+	"isTrimDisabled": null,
+	"streams": []
 }, {
-	'relatedObjects': {},
-	'id': '1_tsl2l9aw',
-	'name': 'Interactive Video Quiz - Taking a Quiz',
-	'description': 'Learn how to take an interactive video quiz',
-	'partnerId': 4682822,
-	'userId': 'eli.cohen@kaltura.com',
-	'creatorId': 'eli.cohen@kaltura.com',
-	'tags': 'interactive video quizzing, questions, point, video, controls, continue., innovative, download, quizzing, tutorial, caption complete, interactive video quiz, creator, question, submit, quiz, click, answered, answer, questions., question., introduce, effects, video quiz, submission, setup, continue, pedagogy, interactive, quiz., ivq',
-	'adminTags': '',
-	'categories': 'Samples>Sample Videos',
-	'categoriesIds': '259148302',
-	'status': {
-		'value': '2'
+	"relatedObjects": {},
+	"id": "1_tsl2l9aw",
+	"name": "Interactive Video Quiz - Taking a Quiz",
+	"description": "Learn how to take an interactive video quiz",
+	"partnerId": 4682822,
+	"userId": "eli.cohen@kaltura.com",
+	"creatorId": "eli.cohen@kaltura.com",
+	"tags": "interactive video quizzing, questions, point, video, controls, continue., innovative, download, quizzing, tutorial, caption complete, interactive video quiz, creator, question, submit, quiz, click, answered, answer, questions., question., introduce, effects, video quiz, submission, setup, continue, pedagogy, interactive, quiz., ivq",
+	"adminTags": "",
+	"categories": "Samples>Sample Videos",
+	"categoriesIds": "259148302",
+	"status": {
+		"value": "2"
 	},
-	'moderationStatus': {
-		'value': 6
+	"moderationStatus": {
+		"value": 6
 	},
-	'moderationCount': 0,
-	'type': {
-		'value': '1'
+	"moderationCount": 0,
+	"type": {
+		"value": "1"
 	},
-	'createdAt': 1654782458,
-	'updatedAt': 1654782462,
-	'rank': 0.0,
-	'totalRank': 0,
-	'votes': 0,
-	'groupId': None,
-	'partnerData': '',
-	'downloadUrl': 'https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_tsl2l9aw/format/download/protocol/https/flavorParamIds/0',
-	'searchText': '_PAR_ONLY_ _4682822_ _MEDIA_TYPE_1|  Interactive Video Quiz - Taking a Quiz interactive video quizzing, questions, point, video, controls, continue., innovative, download, quizzing, tutorial, caption complete, interactive video quiz, creator, question, submit, quiz, click, answered, answer, questions., question., introduce, effects, video quiz, submission, setup, continue, pedagogy, interactive, quiz., ivq Learn how to take an interactive video quiz ',
-	'licenseType': {
-		'value': -1
+	"createdAt": 1654782458,
+	"updatedAt": 1654782462,
+	"rank": 0.0,
+	"totalRank": 0,
+	"votes": 0,
+	"groupId": null,
+	"partnerData": "",
+	"downloadUrl": "https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_tsl2l9aw/format/download/protocol/https/flavorParamIds/0",
+	"searchText": "_PAR_ONLY_ _4682822_ _MEDIA_TYPE_1|  Interactive Video Quiz - Taking a Quiz interactive video quizzing, questions, point, video, controls, continue., innovative, download, quizzing, tutorial, caption complete, interactive video quiz, creator, question, submit, quiz, click, answered, answer, questions., question., introduce, effects, video quiz, submission, setup, continue, pedagogy, interactive, quiz., ivq Learn how to take an interactive video quiz ",
+	"licenseType": {
+		"value": -1
 	},
-	'version': 0,
-	'thumbnailUrl': 'https://cfvod.kaltura.com/p/4682822/sp/468282200/thumbnail/entry_id/1_tsl2l9aw/version/100011',
-	'accessControlId': 5766512,
-	'startDate': None,
-	'endDate': None,
-	'referenceId': '',
-	'replacingEntryId': '',
-	'replacedEntryId': '',
-	'replacementStatus': {
-		'value': '0'
+	"version": 0,
+	"thumbnailUrl": "https://cfvod.kaltura.com/p/4682822/sp/468282200/thumbnail/entry_id/1_tsl2l9aw/version/100011",
+	"accessControlId": 5766512,
+	"startDate": null,
+	"endDate": null,
+	"referenceId": "",
+	"replacingEntryId": "",
+	"replacedEntryId": "",
+	"replacementStatus": {
+		"value": "0"
 	},
-	'partnerSortValue': 0,
-	'conversionProfileId': 19432142,
-	'redirectEntryId': '',
-	'rootEntryId': '1_b3063zne',
-	'parentEntryId': '',
-	'operationAttributes': [],
-	'entitledUsersEdit': '',
-	'entitledUsersPublish': '',
-	'entitledUsersView': '',
-	'capabilities': '',
-	'templateEntryId': '',
-	'displayInSearch': {
-		'value': 1
+	"partnerSortValue": 0,
+	"conversionProfileId": 19432142,
+	"redirectEntryId": "",
+	"rootEntryId": "1_b3063zne",
+	"parentEntryId": "",
+	"operationAttributes": [],
+	"entitledUsersEdit": "",
+	"entitledUsersPublish": "",
+	"entitledUsersView": "",
+	"capabilities": "",
+	"templateEntryId": "",
+	"displayInSearch": {
+		"value": 1
 	},
-	'application': None,
-	'applicationVersion': '',
-	'blockAutoTranscript': False,
-	'plays': 0,
-	'views': 0,
-	'lastPlayedAt': None,
-	'width': 3840,
-	'height': 2160,
-	'duration': 173,
-	'msDuration': 173000,
-	'durationType': None,
-	'mediaType': {
-		'value': 1
+	"application": null,
+	"applicationVersion": "",
+	"blockAutoTranscript": false,
+	"plays": 0,
+	"views": 0,
+	"lastPlayedAt": null,
+	"width": 3840,
+	"height": 2160,
+	"duration": 173,
+	"msDuration": 173000,
+	"durationType": null,
+	"mediaType": {
+		"value": 1
 	},
-	'conversionQuality': '19432142',
-	'sourceType': {
-		'value': '35'
+	"conversionQuality": "19432142",
+	"sourceType": {
+		"value": "35"
 	},
-	'sourceVersion': '',
-	'searchProviderType': None,
-	'searchProviderId': '',
-	'creditUserName': '',
-	'creditUrl': '',
-	'mediaDate': None,
-	'dataUrl': 'https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_tsl2l9aw/format/url/protocol/https',
-	'flavorParamsIds': '0,487041,487051,487061,487071,487081,487091',
-	'isTrimDisabled': None,
-	'streams': []
+	"sourceVersion": "",
+	"searchProviderType": null,
+	"searchProviderId": "",
+	"creditUserName": "",
+	"creditUrl": "",
+	"mediaDate": null,
+	"dataUrl": "https://cdnapisec.kaltura.com/p/4682822/sp/468282200/playManifest/entryId/1_tsl2l9aw/format/url/protocol/https",
+	"flavorParamsIds": "0,487041,487051,487061,487071,487081,487091",
+	"isTrimDisabled": null,
+	"streams": []
 }]
