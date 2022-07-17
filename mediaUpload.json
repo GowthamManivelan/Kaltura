@@ -1,20 +1,20 @@
 {
-	'relatedObjects': {},
-	'id': '1_0e8ce110c9e534bc436d334c3a43faa7',
-	'partnerId': 4682822,
-	'userId': 'user@example.com',
-	'status': {
-		'value': 2
+	"relatedObjects": {},
+	"id": "1_89174ea7e59347c499e87dd15005a5c5",
+	"partnerId": 4682822,
+	"userId": "user@example.com",
+	"status": {
+		"value": 2
 	},
-	'fileName': 'penguins.mp4',
-	'fileSize': None,
-	'uploadedFileSize': 23911172.0,
-	'createdAt': 1658076524,
-	'updatedAt': 1658076529,
-	'uploadUrl': 'https://ny-upload.kaltura.com',
-	'autoFinalize': {
-		'value': 0
+	"fileName": "penguins.mp4",
+	"fileSize": null,
+	"uploadedFileSize": 23911172.0,
+	"createdAt": 1658078885,
+	"updatedAt": 1658078890,
+	"uploadUrl": "https://ny-upload.kaltura.com",
+	"autoFinalize": {
+		"value": 0
 	},
-	'attachedObjectType': '',
-	'attachedObjectId': ''
+	"attachedObjectType": "",
+	"attachedObjectId": ""
 }
