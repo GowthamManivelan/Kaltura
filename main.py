@@ -62,7 +62,7 @@ class KalturaStream:
             for entry in self.search_tag.objects:
                 obj = json.loads(json.dumps(entry, default=lambda entry: entry.__dict__))
                 entries_list.append(obj.copy())
-            return entries_list
+            return json.dumps(entries_list)
         except Exception as e:
             print(e)
 
@@ -82,7 +82,7 @@ class KalturaStream:
             result = self.entry
             print("MEDIA ENTRY CREATED")
             media_entry_response = json.loads(json.dumps(result, default=lambda result: result.__dict__))
-            return media_entry_response
+            return json.dumps(media_entry_response)
         except Exception as e:
             print(e)
 
@@ -102,7 +102,7 @@ class KalturaStream:
             print("SUCCESS UPLOAD!")
             media_upload_response = json.loads(json.dumps(result, default=lambda result: result.__dict__))
             self.video_exists = True
-            return media_upload_response
+            return json.dumps(media_upload_response)
         except Exception as e:
             print(e)
 
@@ -128,7 +128,7 @@ class KalturaStream:
                 result = self.client.media.addContent(entry_id, resource)
                 print("ADDED ENTRY TO UPLOADED MEDIA SUCCESSFULLY")
                 media_entry_response = json.loads(json.dumps(result, default=lambda result: result.__dict__))
-                return media_entry_response
+                return json.dumps(media_entry_response)
             else:
                 print("Please upload media to add entry")
         except Exception as e:
